@@ -11,9 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-The best and unique way to encrypt/hash some data or a file safely,
+The best and unique way to encrypt some data or a file safely,
 <br>
-Kyrie Eleison provides you multiples functions that allows you to encrypt/hash anything you want.
+Kyrie Eleison provides you multiples functions that allows you to encrypt anything you want.
 </strong>
 </p>
 <br>
@@ -37,7 +37,7 @@ Kyrie Eleison provides you multiples functions that allows you to encrypt/hash a
 </p>
 
 <br>
-<strong>- The length of the hashes are pretty random and long</strong>
+<strong>- The length of the encrypted values are pretty random and long</strong>
 <br>
 <strong>- Not very strong encryption</strong>
 <br><br>
@@ -50,7 +50,7 @@ Kyrie Eleison provides you multiples functions that allows you to encrypt/hash a
 
 <br><br>
 * Add more functions and encryption types
-* Strengthen the encryption and hashes
+* Add hashes
 <br><br>
 
 -----
