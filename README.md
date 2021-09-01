@@ -1,19 +1,19 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/401896390/ef22616c-c991-49c5-a7e5-fafbbd40a6b2", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">🌨️ Kyrie Eleison 🌨️</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+The best and unique way to encrypt/hash some data or a file safely,
 <br>
-text
+Kyrie Eleison provides you multiples functions that allows you to encrypt/hash anything you want.
 </strong>
 </p>
 <br>
@@ -23,23 +23,23 @@ text
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Fast</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Nobody will be able to crack your data</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Very customizable functions</strong>
+<br>
+<strong>+ Special and unique</strong>
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/401896390/ef22616c-c991-49c5-a7e5-fafbbd40a6b2" width="250", height="250">
 </p>
 
 <br>
-<strong>- minus</strong>
+<strong>- The length of the hashes are pretty random and long</strong>
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- Not very strong encryption</strong>
 <br><br>
 
 -----
@@ -49,8 +49,8 @@ text
 <p align="center"><strong>Feel free to make a pull request on this repository to submit any idea!</strong</p>
 
 <br><br>
-* idea
-* idea
+* Add more functions and encryption types
+* Strengthen the encryption and hashes
 <br><br>
 
 -----
