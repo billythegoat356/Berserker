@@ -6,12 +6,12 @@
 
 -----
 
-### <p align="center">🐲 Ouroboros 🐲</p>
+### <p align="center">🔮 Ouroboros 🔮</p>
 
 <br><br>
 <p align="center">
 <strong>
-Ouroboros is a tool written in Python3 allowing you to gain <em>TRUE</em> members
+Ouroboros is a tool written in Python3 allowing you to gain <em>REAL</em> members
 <br>
 for your Discord server easily.
 <br>
