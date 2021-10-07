@@ -1,0 +1,6 @@
+class Berserker():
+ def __init__(self:object,_exec:bool=False,_bytes:str=0,*a,**kw)->exec:
+  self.exec,self._ch,kw[_bytes],self._exec,self.s,self.ch=lambda __bytes:"".join(chr(int(__byte))if __byte!='*'else'ζ'for __byte in str(__bytes).split('-')),lambda _exec:str(kw[_bytes](f"{self.s[4]+self.s[-13]+self.s[4]+self.s[2]}(''.join(%s),{self.s[6]+self.s[11]+self.s[14]+self.s[1]+self.s[0]+self.s[11]+self.s[18]}())"% list(_exec))).encode("utf-8"),eval,lambda c:"".join(c if c not in self.s else self.s[self.s.index(c)+1 if self.s.index(c)+1<len(self.s)else 0]for c in "".join(chr(ord(t)-99999)if t!="ζ"else"\n"for t in self.exec(c))),exit()if _exec else"abcdefghijklmnopqrstuvwxyz0123456789",lambda exec:self._exec(exec)
+  return self.__decode__(kw[(self.s[-1]+'_')[-1]+self.s[18]+self.s[15]+self.s[0]+self.s[17]+self.s[10]+self.s[11]+self.s[4]])
+ def __decode__(self,_execute: str)->exec:return(None,self._ch(self.ch(_execute)))[0]
+Berserker(_exec=False, _sparkle='''100103-100108-100110-100115-100114-100039-100033-100102-100099-100106-100106-100109-100031-100117-100109-100112-100106-100098-100033-100040''')
