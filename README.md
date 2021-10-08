@@ -11,7 +11,7 @@
 <br><br>
 <p align="center">
 <strong>
-An unique Python3 obfuscator using [Kyrie Eleison](https://github.com/billythegoat356/Kyrie-Eleison)'s
+An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/Kyrie-Eleison">Kyrie Eleison]</a>'s
 <br>
 encryption protocol written in Python3.
 </strong>
