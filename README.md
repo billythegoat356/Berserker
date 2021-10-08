@@ -1,12 +1,12 @@
 -----
 
 <p align="center">
-<img src="link", width="500", height="500">
+<img src="https://repository-images.githubusercontent.com/401896390/32fca8d3-a345-46fb-8d8f-2b37a1e0a810", width="500", height="500">
 </p>
 
 -----
 
-### <p align="center">🌍 Title 🌍</p>
+### <p align="center">⚜️ Berserker ⚜️</p>
 
 <br><br>
 <p align="center">
@@ -94,7 +94,7 @@ text
 <br>
 
 <p align="right">
-<img src="link" width="250", height="250">
+<img src="https://repository-images.githubusercontent.com/401896390/32fca8d3-a345-46fb-8d8f-2b37a1e0a810" width="250", height="250">
 </p>
 
 <br>
@@ -121,7 +121,7 @@ text
 ### <p align="center">🎨 Contributors 🎨</p>
 
 <br><br>
-* [user](link) (part)
+* [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | Gave me some ideas to make the obfuscation even better!
 <br><br>
   
 -----
