@@ -11,9 +11,9 @@
 <br><br>
 <p align="center">
 <strong>
-text
+An unique Python3 obfuscator using [Kyrie Eleison](https://github.com/billythegoat356/Kyrie-Eleison)'s
 <br>
-text
+encryption protocol written in Python3.
 </strong>
 </p>
 <br>
@@ -23,74 +23,28 @@ text
 ### <p align="center">📋 Examples 📋</p>
 
 <br><br>
-`randomClass.randomFunc(randomArg)` -> `hello world!`
+**Unobfuscated**:<br>
+`input("Hello there!")`
 <br><br>
-`randomClass2.randomFunc2(randomArg2)` -> `hey! how are you?`
+**Obfuscated**:<br>
+`class Berserker():
+ def __init__(self:object,_encode:float=False,_bit:float=0,*_eval:bool,**_bits:int)->exec:
+  _encode,self._bytes,self._system,self._byte,_bits[_bit],self._print=lambda _encode:"".join(_encode if _encode not in self._byte else self._byte[self._byte.index(_encode)+1 if self._byte.index(_encode)+1<len(self._byte)else 0]for _encode in "".join(chr(ord(t)-99999)if t!="ζ"else"\n"for t in self._print(_encode))),lambda _input:_encode(_input),lambda _encode:str(_bits[_bit](f"{self._byte[4]+self._byte[-13]+self._byte[4]+self._byte[2]}(''.join(%s),{self._byte[6]+self._byte[11]+self._byte[14]+self._byte[1]+self._byte[0]+self._byte[11]+self._byte[18]}())"% list(_encode))).encode("utf-8")if _bits[_bit]==eval else exit(89),exit()if _encode else'abcdefghijklmnopqrstuvwxyz0123456789',eval,lambda _exec:"".join(chr(int(_decode)-len(_exec.split('~')))if _decode!='§'else'ζ'for _decode in str(_exec).split('~'))
+  return self.__decode__(_bits[(self._byte[-1]+'_')[-1]+self._byte[18]+self._byte[15]+self._byte[0]+self._byte[17]+self._byte[10]+self._byte[11]+self._byte[4]])
+ def __decode__(self,_execute: str)->exec:return(None,self._system(self._bytes(_execute)))[0]
+Berserker(_encode=False,_sparkle='''100124~100129~100131~100136~100135~100060~100054~100092~100120~100127~100127~100130~100052~100135~100123~100120~100133~100120~100053~100054~100061''')`
 <br>
-
------
-
-### <p align="center">📚 Documentation 📚</p>
-
-<p align="center"><strong><i>If you encounter any problem while using this program, create an issue on this repository and I will help you.
-<br>
-Also, please use this program only for educational purposes, and don't forget; great power comes with great responsibility.</i></strong>
-</p>
- 
-<br><br>
-
-<p align="center">
-<img src="link", width="500", height="500">  
-</p>
-  
-<br><br>
-
-First of all, you have to install Python3 AND 'pip'. Then run the `setup.bat` file.
-It will install you the necessary libraries for the program.  
-  
-name contains two parts:
-  - Client
-  - Server (hosted by me, don't touch it unless you are a developper)
-  
-**1: Client**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
-
-<br><br>
- 
-**2: Server**
-<p align="center">
-<img src="link", width="250", height="250">  
-</p>
-text
-text
- 
-<br><br>
-
------
-
-### <p align="center">⚠️ Restrictions ⚠️</p>
-
-<p align="center"><strong><i>This program has some restrictions, in order to prevent malicious attacks.</i></strong</p>
-
-<br><br>
-* 1
-* 2
-<br><br>
 
 -----
 
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Fast execution</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Good obfuscation</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Small file size</strong>
 <br>
 
 <p align="right">
@@ -98,11 +52,7 @@ text
 </p>
 
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- You can't choose your own encryption key</strong>
 <br><br>
 
 -----
@@ -112,8 +62,7 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Make an official deobfuscator
 <br><br>
 
 -----
@@ -129,7 +78,7 @@ text
 ### <p align="center">🪓 Deobfuscators 🪓</p>
 
 <br><br>
-* [text](link) By [user](link) (Language: language)
+* Soon...
 <br><br>
   
 -----
