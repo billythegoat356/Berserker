@@ -78,7 +78,8 @@ Berserker(_encode=False,_sparkle='''100124~100129~100131~100136~100135~100060~10
 ### <p align="center">🪓 Deobfuscators 🪓</p>
 
 <br><br>
-* Soon...
+* [Berserkered](https://github.com/HideakiAtsuyo/Berserkered) by [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | C#
+* [Berserkered](https://github.com/IDRALOU/Berserkered) by [IDRALOU](https://github.com/IDRALOU/Berserkered) | Python3
 <br><br>
   
 -----
