@@ -179,7 +179,7 @@ def main():
 
     if not file.strip() or not isfile(file):
         Colorate.Error("This file do not exist!")
-        return main()
+        return
 
     # print()
     # key = Write.Input("Enter your encryption key (3 - 99999) -> ", Colors.red_to_yellow, interval=0.005)
@@ -188,11 +188,11 @@ def main():
         key = int(key)
     except ValueError:
         Colorate.Error("Invalid key!")
-        return main()
+        return
 
     if key < 3 or key > 99999:
         Colorate.Error("Invalid key!")
-        return main()
+        return
 
 
 
