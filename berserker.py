@@ -178,7 +178,7 @@ def main():
     file = Write.Input("File -> ", Colors.red_to_yellow, interval=0.005)
 
     if not file.strip() or not isfile(file):
-        Colorate.Error("This file do not exist!")
+        Colorate.Error("This file does not exist!")
         return
 
     # print()
