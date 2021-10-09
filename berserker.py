@@ -217,6 +217,7 @@ Making the final content..."""))
 
     print('\n')
     Write.Input("Built!", Colors.red_to_yellow, interval=0.005)
+    return exit()
 
 if __name__ == '__main__':
     while True:
