@@ -216,7 +216,7 @@ Adding the vars...
 Making the final content..."""))
 
     print('\n')
-    Write.Input("Done!", Colors.red_to_yellow, interval=0.005)
+    Write.Input("Built!", Colors.red_to_yellow, interval=0.005)
 
 if __name__ == '__main__':
     while True:
