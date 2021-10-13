@@ -181,8 +181,8 @@ def main():
         Colorate.Error("This file does not exist!")
         return
 
-    # print()
-    # key = Write.Input("Enter your encryption key (3 - 99999) -> ", Colors.red_to_yellow, interval=0.005)
+    print()
+    key = Write.Input("Enter your encryption key (3 - 99999) -> ", Colors.red_to_yellow, interval=0.005)
     key = 99999
     try:
         key = int(key)
