@@ -67,14 +67,6 @@ Berserker(_encode=False,_sparkle='''100124~100129~100131~100136~100135~100060~10
 
 -----
   
-### <p align="center">🎨 Contributors 🎨</p>
-
-<br><br>
-* [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | Gave me some ideas to make the obfuscation even better!
-<br><br>
-  
------
-  
 ### <p align="center">🪓 Deobfuscators 🪓</p>
 
 <br><br>
