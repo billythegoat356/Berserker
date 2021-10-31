@@ -182,7 +182,7 @@ def main():
         return
 
     # print()
-    # key = Write.Input("Enter your encryption key (3 - 99999) -> ", Colors.red_to_yellow, interval=0.005)
+    # key = Write.Input("Enter your encryption key (3 - 1000000) -> ", Colors.red_to_yellow, interval=0.005)
     key = 99999
     try:
         key = int(key)
@@ -190,7 +190,7 @@ def main():
         Colorate.Error("Invalid key!")
         return
 
-    if key < 3 or key > 99999:
+    if key < 3 or key > 1000000:
         Colorate.Error("Invalid key!")
         return
 
