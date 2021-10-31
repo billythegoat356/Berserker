@@ -183,7 +183,8 @@ def main():
 
     # print()
     # key = Write.Input("Enter your encryption key (3 - 1000000) -> ", Colors.red_to_yellow, interval=0.005)
-    key = 99999
+    key = randint(3, 1000001)
+
     try:
         key = int(key)
     except ValueError:
@@ -193,8 +194,6 @@ def main():
     if key < 3 or key > 1000000:
         Colorate.Error("Invalid key!")
         return
-
-
 
     content = open(file, encoding='utf-8').read()
     file = file.removesuffix(".py") + "-obf.py" # hello hideaki
