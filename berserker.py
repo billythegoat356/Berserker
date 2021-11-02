@@ -82,7 +82,7 @@ def berserk(content: str, key: int) -> str:
 
     content = _lines_sep_.join(str(ord(x)+_hey_num_) if x != 'ζ' else _spaces_sep_ for x in _content_)
 
-    _names_ = ["_eval", "_exec", "_byte", "_bytes", "_bit", "_bits", "_system", "_encode", "_decode", "_delete", "_exit", "_print", "_input"]
+    _names_ = ["_eval", "_exec", "_byte", "_bytes", "_bit", "_bits", "_system", "_encode", "_decode", "_delete", "_exit", "_rasputin", "_boom"]
     _names_ = ["self." + name for name in _names_]
     shuffle(_names_)
 
@@ -109,10 +109,10 @@ def berserk(content: str, key: int) -> str:
 
 
 
-    _1_ = fr"""_n5_""",fr"""lambda _n9_:"".join(chr(int(_n10_)-len(_n9_.split('{_lines_sep_}')))if _n10_!='{_spaces_sep_}'else'ζ'for _n10_ in str(_n9_).split('{_lines_sep_}'))"""
-    _2_ = fr"""_n6_""",r"""lambda _n1_:str(_n4_[_n2_](f"{_n7_[4]+_n7_[-13]+_n7_[4]+_n7_[2]}(''.join(%s),{_n7_[6]+_n7_[11]+_n7_[14]+_n7_[1]+_n7_[0]+_n7_[11]+_n7_[18]}())"% list(_n1_))).encode("utf-8")if _n4_[_n2_]==eval else exit(""" + _ran_int_ + """)"""
+    _1_ = fr"""_n5_""",fr"""lambda _n9_:"".join(__import__('binascii').unhexlify(str(_n10_)).decode()for _n10_ in str(_n9_).split('{_lines_sep_}'))"""
+    _2_ = fr"""_n6_""",r"""lambda _n1_:str(_n4_[_n2_](f"{_n7_[4]+_n7_[-13]+_n7_[4]+_n7_[2]}(''.join(%s),{_n7_[6]+_n7_[11]+_n7_[14]+_n7_[1]+_n7_[0]+_n7_[11]+_n7_[18]}())"% list(_n1_))).encode("utf-8")if _n4_[_n2_]==eval else exit()"""
     _3_ = fr"""_n4_[_n2_]""",fr"""eval"""
-    _4_ = fr"""_n1_""",fr"""lambda _n1_:"".join(_n1_ if _n1_ not in _n7_ else _n7_[_n7_.index(_n1_)+1 if _n7_.index(_n1_)+1<len(_n7_)else 0]for _n1_ in "".join(chr(ord(t)-{key})if t!="ζ"else"\n"for t in _n5_(_n1_)))"""
+    _4_ = fr"""_n1_""",fr"""lambda _n1_:exit()if _n7_[15]+_n7_[17]+_n7_[8]+_n7_[13]+_n7_[19] in open(__file__, errors='ignore').read() or _n7_[8]+_n7_[13]+_n7_[15]+_n7_[20]+_n7_[19] in open(__file__, errors='ignore').read()else"".join(_n1_ if _n1_ not in _n7_ else _n7_[_n7_.index(_n1_)+1 if _n7_.index(_n1_)+1<len(_n7_)else 0]for _n1_ in "".join(chr(ord(t)-{key})if t!="ζ"else"\n"for t in _n5_(_n1_)))"""
     _5_ = fr"""_n7_""",fr"""exit()if _n1_ else'abcdefghijklmnopqrstuvwxyz0123456789'"""
     _6_ = fr"""_n8_""",fr"""lambda _n12_:_n1_(_n12_)"""
     _all_ = [_1_, _2_, _3_, _4_, _5_, _6_]
