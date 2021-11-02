@@ -14,8 +14,6 @@
 An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/Kyrie-Eleison">Kyrie Eleison</a>'s
 <br>
 encryption protocol, written in Python3.
-<br><br><br>
-<img src="https://cdn.discordapp.com/attachments/892840615732195340/905167285793202266/unknown.png" width="1250", height="100">
 </strong>
 </p>
 <br>
@@ -39,6 +37,10 @@ class Berserker():
  def __decode__(self,_execute: str)->exec:return(None,self._exit(self._bits(_execute)))[0]
 Berserker(_encode=False,_sparkle='''928832|928837|928839|928844|928843|928768|928762|928800|928828|928835|928835|928838|928760|928843|928831|928828|928841|928828|928761|928762|928769''')
 ```
+<br><br><br>
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/905167285793202266/unknown.png" width="1250", height="100">
+</p>
 <br>
 
 -----
