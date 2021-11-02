@@ -15,7 +15,7 @@ An unique Python3 obfuscator using <a href="https://github.com/billythegoat356/K
 <br>
 encryption protocol, written in Python3.
 <br><br><br>
-<img src="https://cdn.discordapp.com/attachments/892840615732195340/905163960838410250/unknown.png" width="1250", height="300">
+<img src="https://cdn.discordapp.com/attachments/892840615732195340/905167285793202266/unknown.png" width="1250", height="100">
 </strong>
 </p>
 <br>
