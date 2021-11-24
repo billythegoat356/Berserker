@@ -1,5 +1,8 @@
 # by billythegoat356
 
+# https://github.com/billythegoat356/Berserker
+
+
 from random import choice, randint, shuffle
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 from os.path import isfile
