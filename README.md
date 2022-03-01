@@ -94,7 +94,7 @@ Berserker(_encode=False,_sparkle='''928832|928837|928839|928844|928843|928768|92
   
 ### <p align="center">🪓 Deobfuscators 🪓</p>
 
-<p align="center"><strong>I did not check the code of the following repositories, some of them might be viruses.</strong></p>
+<p align="center"><strong>I did not check the code of the following repositories, use them at your own risks.</strong></p>
  
 <br><br>
 * [Berserkered](https://github.com/HideakiAtsuyo/Berserkered) by [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | C#
